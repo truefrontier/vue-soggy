@@ -1,5 +1,8 @@
 # vue-soggy
 
+## ⚠️ Renamed to [vue-soppy](https://github.com/truefrontier/vue-soppy)
+I don't know about you, but I'd rather be all soppy, than all soggy... 😜
+
 ## What and Why?
 Check out [this article on Medium](https://medium.com/@kevinkirchner/a-ready-to-try-concept-in-response-to-second-guessing-the-modern-web-6946ec4d0598) to get a better understanding why vue-soggy exists.
 
